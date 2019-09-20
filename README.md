@@ -5,12 +5,12 @@ declarative infrastructure using Airship.
 
 ## Prerequisites
 
-- [Go 1.13+](https://golang.org/dl/)
+- [Go 1.12+](https://golang.org/dl/)
 
 ## Getting Started
 
 ```
-git clone git@github.com:GarySmith/airshipui.git
+git clone https://opendev.org/airship/airshipui
 cd airshipui
 make
 ```
